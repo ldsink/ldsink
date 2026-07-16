@@ -21,8 +21,8 @@
 
 - `ldsink` stands for **L**inux **D**eepin **SINK**.
 - Interested in ACGN and everything Linux.
-- Building with Python, Go, and JavaScript.
-- Daily drivers: JetBrains All Products Pack and Visual Studio Code.
+- Building with Python, Go, and TypeScript.
+- Daily drivers: Codex and Visual Studio Code.
 - Favorite tools: [deepin](https://www.deepin.org/) · [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/) · [Oh My Zsh](https://ohmyz.sh/) · [Vim](https://www.vim.org/).
 - GPG: [`8CE00782B0AF5E1C`](https://github.com/ldsink.gpg) · SSH: [`id_ed25519.pub`](./id_ed25519.pub)
 
